@@ -1,5 +1,5 @@
 from collections import UserDict
-from .fields import *
+from fields import *
 from datetime import datetime
 import sys
 
